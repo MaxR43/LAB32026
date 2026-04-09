@@ -11,7 +11,7 @@ class Program
             Console.WriteLine("2. TIPO DECIMAL COMÚN (double):");
             Console.WriteLine("   Valor guardado: " + estatura + " metros");
 
-            double peso = 70.5;
+            double peso = 70.52;
             Console.WriteLine("2. TIPO DECIMAL COMÚN (double):");
             Console.WriteLine("   Valor guardado: " + peso + " kilogramos");
 
